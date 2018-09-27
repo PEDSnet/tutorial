@@ -1,0 +1,11 @@
+{
+    "src_name" : "Postgres",
+    "src_args" : {
+          "host"     : "ohdsitutorialtest2-ohdsielas-redshiftclustermulti-1sizz9gq0e4uq.cc8ltappgfjt.us-east-1.redshift.amazonaws.com/mycdm",
+          "port"     : 5432,
+          "dbname"   : "mycdm",
+          "user"     : "master",
+          "password" : "Password1",
+          "options"  : "-c search_path=mimiciii100"
+     }
+}
