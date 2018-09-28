@@ -10,7 +10,7 @@ db:
  dqa_schema         : mimiciii100
  argos_config_file_path : ../argos/argos_config.json
 reporting:
- site_directory     : ../Results
+ site_directory     : ../results
  etl_script_version : v1
  dqa_script_version : v3.0.0
  site               : Sample
