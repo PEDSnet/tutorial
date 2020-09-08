@@ -32,8 +32,6 @@ install.packages(c("DBI","yaml","ggplot2","RJDBC","devtools","futile.logger","pl
 
 install.packages("RPostgres")
 library(devtools)
-install_github("ohdsi/SqlRender")
-install_github("ohdsi/DatabaseConnector")
 install_github("baileych/ohdsi-argos")
 ```
 * Minimum Versions Required:
